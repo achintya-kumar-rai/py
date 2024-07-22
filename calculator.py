@@ -44,9 +44,3 @@ while arth!=5:
         elif arth==5:
             print("thank you and have a nice day bye bye ")
             break
-    
-    
-
-    
-
-
