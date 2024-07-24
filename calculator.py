@@ -4,13 +4,17 @@ while arth!=5:
                            min 2
                            max 3'''))
     a1=int(input ("enter the first number "))
+    
     a2=int (input ("enter the second number"))
+
     if n_of_number==3:
         a3=int(input("enter the third number"))
+
         print('''enter  1 for addition 
         2 for multiplication
         3 to close the calculator''')
         arth=int(input ('''enter the operation'''))
+
         if arth ==1:
             print("sum of the two number is ",a1+a2+a3)
 
@@ -23,13 +27,16 @@ while arth!=5:
 
 
     else:
+
         print('''enter  1 for addition 
         2 for substraction
         3 for multiplication 
         4 for divison
         5 to close the calculator''')
+
         arth=int(input ('''enter the operation'''))
         if arth ==1:
+
             print("sum of the two number is ",a1+a2)
 
         elif arth==2:
