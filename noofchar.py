@@ -1,3 +1,4 @@
+#code that print all the character of the sting and no of the charater present in it 
 name=input("enter your name")
 no_of_char=0
 index=0
